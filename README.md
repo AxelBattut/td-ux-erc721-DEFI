@@ -1,7 +1,8 @@
 
 TD UX ERC721
 
-To use the project, clone the project and run the code using npm start in cd mon-app
+To use the project, clone the project, run "npm-i" then "ng serve". That will add the node_modules file. 
+Then go in cd mon-app and run the code using npm start.
 ## Some visuals
 
 Here is what you can expect from this project :
